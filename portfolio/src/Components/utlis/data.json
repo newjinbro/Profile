@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Front-End",
+        "icon": "./asset/front-end.png",
+        "skills": [
+            { "skill": "HTML5", "percentage": "80%" },
+            { "skill": "CSS5", "percentage": "70%" },
+            { "skill": "Javascript", "percentage": "75%" },
+            { "skill": "React Js", "percentage": "80%" }
+        ]
+    },
+    {
+        "title": "Design",
+        "icon": "./asset/design.png",
+
+        "skills": [
+            { "skill": "Photoshop", "percentage": "80%" },
+            { "skill": "Premier-Pro", "percentage": "70%" }
+        ]
+    },
+    {
+        "title": "Tools",
+        "icon": "./asset/tools.png",
+        "skills": [
+            { "skill": "Git & GitHub", "percentage": "80%" },
+            { "skill": "Visual Studio Code", "percentage": "80%" },
+            { "skill": "Webpack", "percentage": "80%" },
+            { "skill": "Responsive Design", "percentage": "75%" }
+        ]
+    },
+    {
+        "title": "Soft Skills",
+        "icon": "./asset/skills.png",
+        "skills": [
+            { "skill": "Problem-Solving", "percentage": "70%" },
+            { "skill": "Collaboration", "percentage": "70%" },
+            { "skill": "Attention to Detail", "percentage": "75%" }
+        ]
+    }
+]
+
